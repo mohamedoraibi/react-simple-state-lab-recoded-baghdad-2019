@@ -5,22 +5,7 @@ export default class Matrix extends Component {
   genRow = (vals) => (
     vals.map(val => <div className="cell"></div>) 
     render (){
-     <div id="root">
-  <div id="matrix">
-    <div class="row">
-      <div class="cell"></div>
-      <div class="cell"></div>
-      <div class="cell"></div>
-        ...
-    </div>
-    <div class="row">
-      <div class="cell"></div>
-      <div class="cell"></div>
-      <div class="cell"></div>
-        ...
-    </div>
-  </div>
-</div> 
+     
     }
   )
   
