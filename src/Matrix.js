@@ -4,9 +4,7 @@ export default class Matrix extends Component {
   
   genRow = (vals) => (
     vals.map(val => <div className="cell"></div>) 
-    render (){
-     
-    }
+   
   )
   
   genMatrix = () => (
