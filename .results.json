@@ -1,0 +1,60 @@
+{
+  "stats": {
+    "suites": 1,
+    "tests": 3,
+    "passes": 3,
+    "pending": 0,
+    "failures": 0,
+    "start": "2020-01-16T08:05:49.133Z",
+    "end": "2020-01-16T08:05:49.192Z",
+    "duration": 59
+  },
+  "tests": [
+    {
+      "title": "uses a default 'values' prop of an array with 10 items",
+      "fullTitle": "<Matrix /> uses a default 'values' prop of an array with 10 items",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "each sub-array of the default 'values' prop is an array",
+      "fullTitle": "<Matrix /> each sub-array of the default 'values' prop is an array",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "each sub-array of the default values prop is filled with 10 hex color string equal to: '#F00'",
+      "fullTitle": "<Matrix /> each sub-array of the default values prop is filled with 10 hex color string equal to: '#F00'",
+      "duration": 8,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [],
+  "passes": [
+    {
+      "title": "uses a default 'values' prop of an array with 10 items",
+      "fullTitle": "<Matrix /> uses a default 'values' prop of an array with 10 items",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "each sub-array of the default 'values' prop is an array",
+      "fullTitle": "<Matrix /> each sub-array of the default 'values' prop is an array",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "each sub-array of the default values prop is filled with 10 hex color string equal to: '#F00'",
+      "fullTitle": "<Matrix /> each sub-array of the default values prop is filled with 10 hex color string equal to: '#F00'",
+      "duration": 8,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ]
+}
